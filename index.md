@@ -1,10 +1,9 @@
-## Welcome to GitHub Pages
+## 欢迎来到Idea
 
-You can use the [editor on GitHub](https://github.com/guojingwei0220/IDEA.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+你可以下载我创建的idea项目，从本地的idea中导入以便学习
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
+无论你遇到什么困难，欢迎留言区讨论。
+### 记录Java学习资料
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
